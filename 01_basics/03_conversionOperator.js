@@ -14,3 +14,8 @@ console.log(valueInNumber);   //in this case value is sometime coverted but some
 let isLoggedin = 1;
 let booleanisLoggedin = Boolean(isLoggedin)
 console.log(booleanisLoggedin);
+
+let someNumber = 33
+let stringNumber = String(someNumber)
+console.log(stringNumber)
+console.log(typeof stringNumber)
